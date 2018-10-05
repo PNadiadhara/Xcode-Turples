@@ -41,3 +41,16 @@ if fellow2.smoker{
 } else {
     print ("Heres a number")
 }
+
+
+// Code Added after initial git push
+let day = "Friday"
+if day == "Friday"{
+    print("the weekend is here")
+}else {
+    print("its not the weekend")
+}
+
+//TO Do : practine writing cmd commands
+//practice tuples
+//
